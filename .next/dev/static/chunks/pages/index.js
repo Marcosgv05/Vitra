@@ -1,0 +1,13 @@
+__turbopack_load_page_chunks__("/", [
+  "static/chunks/d7fc9_next_dist_compiled_f47b88b7._.js",
+  "static/chunks/d7fc9_next_dist_shared_lib_fc7cf274._.js",
+  "static/chunks/d7fc9_next_dist_client_cc08e376._.js",
+  "static/chunks/d7fc9_next_dist_477c3a57._.js",
+  "static/chunks/d7fc9_react-dom_2990d333._.js",
+  "static/chunks/d7fc9_motion-dom_dist_es_adbaefeb._.js",
+  "static/chunks/d7fc9_framer-motion_dist_es_2164fc8a._.js",
+  "static/chunks/d7fc9_007a2a23._.js",
+  "static/chunks/[root-of-the-server]__6346af6f._.js",
+  "static/chunks/Vitra_pages_index_2da965e7._.js",
+  "static/chunks/turbopack-Vitra_pages_index_230824cf._.js"
+])

@@ -1,0 +1,11 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_not-found/page.js")
+R.c("server/chunks/ssr/d7fc9_next_dist_1e231068._.js")
+R.c("server/chunks/ssr/[externals]_next_dist_shared_lib_no-fallback-error_external_59b92b38.js")
+R.c("server/chunks/ssr/d7fc9_next_dist_4612551d._.js")
+R.c("server/chunks/ssr/[externals]__7f148858._.js")
+R.c("server/chunks/ssr/d7fc9_15a89efc._.js")
+R.c("server/chunks/ssr/d7fc9_next_dist_client_components_dcf1f318._.js")
+R.c("server/chunks/ssr/d7fc9_next_dist_client_components_builtin_forbidden_34857141.js")
+R.c("server/chunks/ssr/Vitra__next-internal_server_app__not-found_page_actions_bdcb88b4.js")
+R.m("[project]/Vitra/node_modules/next/dist/esm/build/templates/app-page.js?page=/_not-found/page { MODULE_0 => \"[project]/Vitra/node_modules/next/dist/client/components/builtin/layout.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_1 => \"[project]/Vitra/node_modules/next/dist/client/components/builtin/not-found.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_2 => \"[project]/Vitra/node_modules/next/dist/client/components/builtin/forbidden.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_3 => \"[project]/Vitra/node_modules/next/dist/client/components/builtin/unauthorized.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_4 => \"[project]/Vitra/node_modules/next/dist/client/components/builtin/not-found.js [app-rsc] (ecmascript, Next.js Server Component)\" } [app-rsc] (ecmascript)")
+module.exports=R.m("[project]/Vitra/node_modules/next/dist/esm/build/templates/app-page.js?page=/_not-found/page { MODULE_0 => \"[project]/Vitra/node_modules/next/dist/client/components/builtin/layout.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_1 => \"[project]/Vitra/node_modules/next/dist/client/components/builtin/not-found.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_2 => \"[project]/Vitra/node_modules/next/dist/client/components/builtin/forbidden.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_3 => \"[project]/Vitra/node_modules/next/dist/client/components/builtin/unauthorized.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_4 => \"[project]/Vitra/node_modules/next/dist/client/components/builtin/not-found.js [app-rsc] (ecmascript, Next.js Server Component)\" } [app-rsc] (ecmascript)").exports

@@ -1,0 +1,23 @@
+{
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [],
+  "pages": {
+    "/_error": [
+      "static/chunks/d7fc9_next_dist_compiled_f47b88b7._.js",
+      "static/chunks/d7fc9_next_dist_shared_lib_8a72d370._.js",
+      "static/chunks/d7fc9_next_dist_client_cc08e376._.js",
+      "static/chunks/d7fc9_next_dist_dd10fb77._.js",
+      "static/chunks/d7fc9_next_error_e9f9524a.js",
+      "static/chunks/[next]_entry_page-loader_ts_e18843a1._.js",
+      "static/chunks/d7fc9_react-dom_2990d333._.js",
+      "static/chunks/d7fc9_7f349545._.js",
+      "static/chunks/[root-of-the-server]__2ee28318._.js",
+      "static/chunks/Vitra_pages__error_2da965e7._.js",
+      "static/chunks/turbopack-Vitra_pages__error_4a168304._.js"
+    ]
+  },
+  "ampFirstPages": []
+}
